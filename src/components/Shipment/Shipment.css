@@ -1,0 +1,28 @@
+.formDesign {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    overflow: hidden;
+    font-size: 25px;
+}
+.inputDesign {
+    width: 99%;
+    padding: 10px;
+    border: 2px solid #6d6d6d;
+    background: #dadada94;
+    border-radius: 8px;
+    font-size: 20px;
+}
+.buttonDesign {
+    width: 100%;
+    padding: 15px 5px;
+    border: 0px;
+    border-radius: 8px;
+    background-color: #03242d;
+    color: white;
+    margin: 20px 0;
+    font-size: 30px;
+    letter-spacing: 3px;
+    font-weight: 600;
+    cursor: pointer;
+}
